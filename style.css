@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  position: relative;
+}
+
+.container video {
+  width: 100%;
+}
+
+.textbox {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  display: flex;
+  justify-content: center;
+}
+
+.headertxt {
+  font-size: 10rem;
+  font-weight: 700;
+}
